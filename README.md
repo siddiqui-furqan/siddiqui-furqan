@@ -1,75 +1,191 @@
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/main/light.svg">
-  <img alt="Furqan Siddiqui" src="https://raw.githubusercontent.com/your-username/your-username/main/light.svg">
-</picture>
-
-<!-- ===== GITHUB STATS ===== -->
-
 <div align="center">
 
-<!-- Streak — full width -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=your-username&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=your-username&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Furqan's streak" />
-</picture>
+# Hey, I'm YOUR NAME 👋
+
+### Building at the intersection of technology, AI & entrepreneurship.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Building+products+with+AI;Exploring+technology+%26+entrepreneurship;Turning+ideas+into+real+projects;Always+learning%2C+building+%26+experimenting" alt="Typing SVG" />
 
 <br/>
 
-<!-- Stats + Top languages — side by side -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=your-username&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=your-username&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Furqan's GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
-</picture>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
+---
+
+## 👨‍💻 About Me
+
+I'm **YOUR NAME**, a student, builder and entrepreneur interested in using technology to turn ideas into useful products.
+
+My work sits across **AI, software, product building, entrepreneurship and experimentation**.
+
+I enjoy going from:
+
+**Idea → Research → Build → Launch → Learn → Improve**
+
+I'm particularly interested in projects where technology can solve a real problem rather than simply exist as a technical experiment.
+
+---
+
+## 🚀 What I'm Building
+
+> A collection of projects, experiments and ideas that I'm turning into real-world work.
+
+| Focus               | What I'm exploring                               |
+| ------------------- | ------------------------------------------------ |
+| 🤖 AI               | AI-powered products, workflows & experimentation |
+| 💻 Technology       | Software, web development & modern tools         |
+| 🚀 Entrepreneurship | Building, testing & launching ideas              |
+| 🎨 Product          | Turning technical ideas into useful experiences  |
+| 📈 Growth           | Learning through real projects and execution     |
+
+---
+
+## 🧩 Featured Projects
+
+<!-- Replace these with your actual strongest projects -->
+
+### 🚀 Project One
+
+**Short one-line explanation of the project.**
+
+`Technology / AI / Product`
+
+[View Project](YOUR_PROJECT_URL) · [Source Code](YOUR_REPO_URL)
+
+---
+
+### 🤖 Project Two
+
+**Short one-line explanation of the project.**
+
+`Technology / AI / Automation`
+
+[View Project](YOUR_PROJECT_URL) · [Source Code](YOUR_REPO_URL)
+
+---
+
+### 💡 Project Three
+
+**Short one-line explanation of the project.**
+
+`Technology / Entrepreneurship / Product`
+
+[View Project](YOUR_PROJECT_URL) · [Source Code](YOUR_REPO_URL)
+
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/your-username/your-username/output/snake-light.svg" />
-</picture>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,tailwind,nodejs,git,github,vscode,figma&perline=7" />
 
 </div>
 
-<!-- ===== END SNAKE ===== -->
 <br/>
-<br/>
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/your-username/your-username/projects/projects.svg" alt="Projects" />
-</div>
 
-<!-- ===== SOCIAL BADGES ===== -->
-<br/>
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin-id/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE4NCAwLTIuMDYzLS45MjYtMi4wNhMtMi40NjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/your-instagram-handle/">
-  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.facebook.com/your-facebook-handle">
-  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
-&nbsp;&nbsp;
+**Also exploring:** AI tools · automation · product development · emerging technologies
+
 </div>
 
-<!-- ===== END SOCIAL BADGES ===== -->
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 🌱 Currently
+
+```text
+🔭 Building     →  New projects & experiments
+🤖 Exploring    →  AI + emerging technology
+📚 Learning     →  New technical & business skills
+🚀 Working on   →  Turning ideas into real products
+```
+
+---
+
+## 📈 My GitHub Journey
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution graph" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+If you're interested in **technology, AI, entrepreneurship, building products,
+or simply exchanging ideas**, feel free to reach out.
+
+<br/>
+
+<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  •   <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  •   <a href="mailto:YOUR_EMAIL">Email</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&label=Profile+Views" />
+
+</div>
+
+---
+
+<div align="center">
+
+### *Build. Experiment. Learn. Repeat.*
+
+</div>
