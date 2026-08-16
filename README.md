@@ -1,24 +1,21 @@
 <div align="center">
 
-<img src="./assets/header.gif" width="100%" />
+# FURQAN SIDDIQUI
 
-<br/>
+### Entrepreneur · Builder · Creative Technologist
 
-# `Furqan Siddiqui`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2400&pause=700&center=true&vCenter=true&width=760&lines=Building+businesses+with+technology.;Turning+ideas+into+digital+products.;AI+%C3%97+Automation+%C3%97+Web+%C3%97+Design.;Learning+by+building%2C+shipping+%26+iterating." />
 
-### **Builder · Entrepreneur · AI Explorer**
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2200&pause=600&center=true&vCenter=true&width=700&lines=I+build+things+that+start+as+ideas.;AI+%2B+technology+%2B+business.;From+concept+to+prototype+to+product.;Currently+figuring+out+what+to+build+next." />
+<a href="https://furqansiddiqui.me">🌐 Portfolio</a>
+  ·   <a href="https://www.linkedin.com/in/siddiqui-furqan">LinkedIn</a>
+  ·   <a href="mailto:work@furqansiddiqui.me">Email</a>
+  ·   <a href="https://github.com/siddiqui-furqan">GitHub</a>
 
-<br/>
+<br><br>
 
-`AI` `PRODUCT` `TECHNOLOGY` `ENTREPRENEURSHIP`
-
-<br/><br/>
-
-<a href="YOUR_PORTFOLIO">🌐 PORTFOLIO</a>
-  •   <a href="YOUR_LINKEDIN">LINKEDIN</a>
-  •   <a href="mailto:YOUR_EMAIL">CONTACT</a>
+<img src="https://komarev.com/ghpvc/?username=siddiqui-furqan&style=flat-square&label=PROFILE+VISITS" />
 
 </div>
 
@@ -26,173 +23,186 @@
 
 <div align="center">
 
-### `SYSTEM / IDENTITY`
+### `BUILD → LEARN → LAUNCH → ITERATE`
+
+**Technology is my medium.
+Business is my playground.
+Building is how I learn.**
+
+</div>
+
+---
+
+## `WHO I AM`
+
+I'm a **B.Com (Management Studies) undergraduate, entrepreneur and freelancer** working across the space between **technology, business and creative execution**.
+
+My work has taken me from building websites and growth systems for clients to co-founding digital ventures, leading creative teams, conducting academic research and experimenting with AI-powered workflows.
+
+I like being involved in the **whole system** — not just the code.
+
+`PRODUCT` · `TECH` · `AI` · `GROWTH` · `DESIGN` · `BUSINESS`
+
+---
+
+## `THE BUILD MAP`
+
+```text
+                         FURQAN
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+       BUILD            GROW             CREATE
+          │                │                │
+     Web / AI         SEO / Ads        Design / Media
+     Automation       Marketing        Branding
+     Systems          Strategy         Experiences
+          │                │                │
+          └────────────────┼────────────────┘
+                           │
+                       BUSINESS
+                           │
+                    Ideas → Products
+```
+
+---
+
+## `VENTURES`
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%">
 
-**01**
+### 🧵 Noorani Nazaakat
 
-<br/>
+**Co-Founder · 2026–Present**
 
-🧠
-**THINK**
+Digital-first ethnicwear brand focused on premium small-batch women's apparel.
 
-<br/>
-
-Ideas, research
-& possibilities
+`E-Commerce` `Brand` `Operations` `Growth`
 
 </td>
+<td width="50%">
 
-<td align="center" width="25%">
+### 🎮 MythXLegend.games
 
-**02**
+**Founder · 2025–Present**
 
-<br/>
+Digital storefront for PC & PlayStation games built around social-commerce and DM-based sales.
 
-⚙️
-**BUILD**
-
-<br/>
-
-Code, AI
-& prototypes
+`Gaming` `E-Commerce` `Marketing`
 
 </td>
+</tr>
 
-<td align="center" width="25%">
+<tr>
+<td width="50%">
 
-**03**
+### ⚙️ Owlnest Media
 
-<br/>
+**Co-Founder · 2025–Present**
 
-🚀
-**SHIP**
+Digital solutions company delivering websites, applications, presentations and marketing systems.
 
-<br/>
-
-Products, projects
-& experiments
+`Web` `Business` `Digital Solutions`
 
 </td>
+<td width="50%">
 
-<td align="center" width="25%">
+### 🎨 ArtistKhojo.in
 
-**04**
+**Co-Founder · 2025–Present**
 
-<br/>
+Digital platform and solutions venture connecting creative talent with opportunities.
 
-📈
-**ITERATE**
-
-<br/>
-
-Feedback, learning
-& growth
+`Platform` `Creative Economy` `Technology`
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## `ABOUT / 001`
-
-I'm interested in the space where **technology becomes something useful**.
-
-My work spans **AI, software, product building, entrepreneurship and digital experiences**.
-
-I don't want GitHub to be a list of repositories.
-
-I want it to document the **things I'm actually learning by building**.
-
----
-
-## `NOW / 002`
+## `WHAT I ACTUALLY DO`
 
 ```text
-╭────────────────────────────────────────────────────────╮
-│                                                        │
-│  🔭 BUILDING      ███████████████████░░░   ACTIVE      │
-│  🤖 AI            ████████████████░░░░░   EXPLORING    │
-│  🚀 PRODUCTS      █████████████████░░░░   BUILDING     │
-│  📚 LEARNING      ████████████████████░   ALWAYS       │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
+WEB          WordPress · WooCommerce · HTML · CSS · JS · Node.js · Python
+GROWTH       SEO · Google Ads · Meta Ads · Analytics · Lead Generation
+AI           Claude · Prompt Engineering · AI Workflows · Automation
+SYSTEMS      Zapier · Make · Notion · Slack · Business Operations
+CREATIVE     Photoshop · Illustrator · InDesign · Premiere Pro · Canva · Figma
+BUSINESS     Strategy · Branding · Client Management · Entrepreneurship
+RESEARCH     Survey Design · Data Analysis · Academic Research · APA
 ```
 
-**Current direction**
-
-`AI` × `PRODUCT` × `ENTREPRENEURSHIP`
-
 ---
 
-## `SELECTED WORK / 003`
+## `SELECTED SIGNALS`
 
 <div align="center">
 
-### 🚀 BUILDING
-
-**[PROJECT 01]**
-*The project that represents my product-building side.*
-
-`AI` `PRODUCT` `WEB`
-
-[→ explore](PROJECT_URL)
-
-<br/>
-
-### 🤖 EXPERIMENTING
-
-**[PROJECT 02]**
-*An experiment exploring what technology can do.*
-
-`AI` `AUTOMATION` `EXPERIMENT`
-
-[→ explore](PROJECT_URL)
-
-<br/>
-
-### 🌐 CRAFTING
-
-**[PROJECT 03]**
-*Where design, technology and personal branding meet.*
-
-`WEB` `DESIGN` `3D`
-
-[→ explore](PROJECT_URL)
+|                 |                                |
+| --------------- | ------------------------------ |
+| **1,764**       | research participants analysed |
+| **3+**          | co-founded ventures            |
+| **2021 →**      | freelance / digital work       |
+| **200K+**       | YouTube audience managed       |
+| **300K+**       | X/Twitter audience managed     |
+| **11–12**       | students led in CEP group      |
+| **1**           | published book chapter         |
+| **Deputy Head** | BMS & BAF Core Committee       |
 
 </div>
 
 ---
 
-## `STACK / 004`
+## `RESEARCH × LEADERSHIP`
+
+**Aavishkar Research Convention — University of Mumbai**
+
+> Studied the relationship between mental health challenges and students' academic performance, designing the research instrument and analysing **1,764 responses**.
+
+**Published Work**
+
+> *Use of Educational Technology: Challenges and Opportunities*
+> Chapter contributor — *Transforming Indian Education: NEP 2020 Guide*
+
+**Leadership**
+
+> Deputy Head · BMS & BAF Core Committee
+> Student In-charge · BMS
+> Group Leader · Community Engagement Project
+
+---
+
+## `THE TOOLBOX`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,figma&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,nodejs,html,css,wordpress,git,github,figma&perline=10" />
 
-<br/><br/>
+<br><br>
 
-`+ AI TOOLS`   `+ AUTOMATION`   `+ PRODUCT TOOLS`
+<img src="https://img.shields.io/badge/AI-Claude-1f1f1f?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation-Zapier-1f1f1f?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation-Make-1f1f1f?style=flat-square" />
+<img src="https://img.shields.io/badge/Analytics-GA4-1f1f1f?style=flat-square" />
+<img src="https://img.shields.io/badge/Marketing-Google%20%26%20Meta-1f1f1f?style=flat-square" />
+<img src="https://img.shields.io/badge/Design-Adobe%20%2B%20Canva-1f1f1f?style=flat-square" />
 
 </div>
 
 ---
 
-## `GITHUB TELEMETRY / 005`
+## `GITHUB // LIVE`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=siddiqui-furqan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=siddiqui-furqan&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqui-furqan&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqui-furqan&layout=compact&langs_count=6&hide_border=true&theme=transparent" height="165" />
 
-<br/><br/>
+<br>
 
 <img src="https://streak-stats.demolab.com?user=siddiqui-furqan&hide_border=true&theme=transparent" />
 
@@ -200,81 +210,61 @@ I want it to document the **things I'm actually learning by building**.
 
 ---
 
-## `ACHIEVEMENTS / 006`
+## `CONTRIBUTION // 3D`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=siddiqui-furqan&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="96%" />
 
 </div>
 
 ---
 
-## `CONTRIBUTION MATRIX / 007`
+## `CONTRIBUTION // SNAKE`
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
-
-<br/><br/>
-
-<img src="./output/github-contribution-grid-snake.svg" width="100%" />
+<img src="./output/github-contribution-grid-snake.svg" width="96%" />
 
 </div>
 
 ---
 
-## `ACTIVITY / 008`
+## `TROPHIES // MILESTONES`
 
 <div align="center">
 
-<!-- GitHub activity generator -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddiqui-furqan&hide_border=true&area=true&custom_title=Building%20in%20Public" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=siddiqui-furqan&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 </div>
 
 ---
 
-## `CAREER LOG / 009`
+## `CURRENTLY`
 
-```text
-2026 ─────────────────────────────────────────────── NOW
- │
- ├── 🎓 Education
- │
- ├── 🚀 Entrepreneurship
- │
- ├── 💻 Projects
- │
- ├── 🤖 AI / Technology
- │
- ├── 🏆 Competitions & Achievements
- │
- └── 🌐 Building my digital presence
-```
+<div align="center">
 
-> The interesting part isn't where I started.
-> **It's what I'm building toward.**
+**Building** → my digital ecosystem
+**Exploring** → AI + automation + emerging technology
+**Growing** → businesses, products & professional identity
+**Learning** → by turning ideas into real things
+
+</div>
 
 ---
 
 <div align="center">
 
-## `CONNECT`
+### `IF IT CAN BE BUILT, I'M PROBABLY CURIOUS ABOUT IT.`
 
-**Have an idea? Building something? Let's talk.**
+<br>
 
-<br/>
+<a href="https://furqansiddiqui.me">
+<img src="https://img.shields.io/badge/ENTER_MY_PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-[🌐 PORTFOLIO] · [💼 LINKEDIN] · [✉️ EMAIL]
+<br><br>
 
-<br/><br/>
-
-<img src="./assets/visitor-counter.svg"/>
-
-<br/><br/>
-
-`© 2026 YOUR NAME`
+<sub>Furqan Siddiqui · Mumbai, India · 2026</sub>
 
 </div>
