@@ -188,13 +188,13 @@ I want it to document the **things I'm actually learning by building**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=siddiqui-furqan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqui-furqan&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=siddiqui-furqan&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -204,7 +204,7 @@ I want it to document the **things I'm actually learning by building**.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=siddiqui-furqan&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 
 </div>
 
@@ -230,7 +230,7 @@ I want it to document the **things I'm actually learning by building**.
 
 <!-- GitHub activity generator -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true&custom_title=Building%20in%20Public" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddiqui-furqan&hide_border=true&area=true&custom_title=Building%20in%20Public" width="100%" />
 
 </div>
 
