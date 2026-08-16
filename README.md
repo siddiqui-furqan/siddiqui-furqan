@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm YOUR NAME 👋
+# Hey, I'm Furqan Siddiqui 👋
 
 ### Building at the intersection of technology, AI & entrepreneurship.
 
